@@ -1,9 +1,16 @@
 # Cactus-Desktop_Notifier
 A Desktop Notifications and Weather Display Piece
+
 Reference:
+
 https://hackaday.com/2022/07/05/never-miss-an-email-with-this-1970s-style-desktop-notifier/
 
-<img title="Work In Progress" alt="Alt text" src="/images/Work Under Progress.png">
+
+<p align="center">
+  <img src="https://github.com/aitesam961/Images/Work Under Progress.jfif" width="420">
+ 
+</p>
+
 
 ## Please note:
 This project is under progress and I am developing it on weekend and free time after my studies.
