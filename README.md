@@ -13,8 +13,8 @@ https://hackaday.com/2022/07/05/never-miss-an-email-with-this-1970s-style-deskto
 
 
 ## Please note:
-This project is under progress and I am developing it on weekend and free time after my studies.
-It may take a few months to turn it out.
+This project is under progress and I am developing it on weekends and free time after my studies.
+It may take a few months to turn out.
 
 In the meantime, Community contributions are welcome to this Open Source Project in terms of Hardware, Software, Industrial Design and Documentation.
 
